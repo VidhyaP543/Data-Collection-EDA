@@ -49,3 +49,15 @@ Data-Collection-EDA/
 ├── images/
 ├── README.md
 ├── requirements.txt
+##Key Observations
+1. Female passengers survived more than males.
+
+2. Most passengers were between 20–40 years old.
+
+3. Passenger Class 3 had the highest number of passengers.
+
+4. Age had missing values which were replaced with the median.
+
+5. Cabin column contained many missing values and was removed.
+
+6. No duplicate rows remained after cleaning.
